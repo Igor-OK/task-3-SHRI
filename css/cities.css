@@ -8,7 +8,7 @@ html, body{
   top:15vh;
   width:100%;
   height: 45vh;
-  background-image: url(atmo.png);
+  background-image: url(../assets/atmo.png);
   background-position: bottom;
   z-index: 500;
 }
@@ -27,7 +27,7 @@ html, body{
   position: fixed;
   left:0;
   bottom:0;
-  background-image: url(fry.png);
+  background-image: url(../assets/fry.png);
 }
 #bender{
   display: block;
@@ -37,7 +37,7 @@ html, body{
   position: fixed;
   right:0;
   bottom:0;
-  background-image: url(bender.png);
+  background-image: url(../assets/bender.png);
 }
 #human-speach, #robot-speach{
   display: none;
